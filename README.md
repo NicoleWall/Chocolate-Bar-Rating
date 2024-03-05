@@ -24,5 +24,6 @@ The project files are divided between the following folders:
 - Project Management: Project Brief
 - Data (Data files not uploaded to GitHub)
 - Scripts: The Jupyter notebooks containing the coding for the analysis.
+- Analysis: The visualizations used for developing and explaining insights.
 
 Tableau Presenation: https://public.tableau.com/app/profile/nicole.wall1266/viz/ChocolateBarRating_17096158041530/Story1
